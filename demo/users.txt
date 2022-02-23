@@ -1,0 +1,45 @@
+Name: Colby
+id: 100
+date of birth: 02/18/2016
+job: Customer Service
+address: 25 King St W,Toronto,ON
+can open bank account: true
+can trade stocks: false
+promo message: $1000 cash sign up bonus
+
+Name: Earl
+id: 50
+date of birth: 09/25/1997
+job: Carpenter
+address: 90 Nanwood Cres,Windsor,ON
+can open bank account: true
+can trade stocks: true
+promo message: null
+
+Name: Ali
+id: 125
+date of birth: 01/30/1997
+job: Developer
+address: 15 Queen St E,Brampton,ON
+can open bank account: true
+can trade stocks: true
+promo message: 15% lower transaction fees for stocks
+
+Name: Daryl
+id: 92
+date of birth: 01/30/1977
+job: Stocker
+address: 25 King St W,Toronto,ON
+can open bank account: true
+can trade stocks: true
+promo message: $1000 cash sign up bonus
+
+Name: Bob
+id: 150
+date of birth: 01/25/1997
+job: Accountant
+address: 15 Bridgeway,Windsor,ON
+can open bank account: true
+can trade stocks: true
+promo message: null
+
